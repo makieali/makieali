@@ -8,7 +8,6 @@
 
 Currently leading engineering at **Fyncall** (AI customer service) and **Builderson Group** (fintech & platforms). Previously solo developer at **Revisable** — an AI-powered medical exam prep platform with **100,000+ students**.
 
-🇨🇦 **Open to opportunities in Canada**
 
 ---
 
