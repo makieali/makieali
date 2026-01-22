@@ -180,9 +180,6 @@ Intelligent platform connecting volunteers with opportunities.
 
 ### Let's Connect
 
-I'm actively looking for **AI/ML Engineer**, **CTO**, or **Tech Lead** roles in **Canada**.
-
-Open to freelance projects in Agentic AI, RAG systems, and full-stack development.
 
 📧 **Email:** [m.ali06782@gmail.com](mailto:m.ali06782@gmail.com)
 🌐 **Portfolio:** [makiex.com](https://makiex.com)
