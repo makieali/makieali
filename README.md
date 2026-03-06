@@ -1,13 +1,12 @@
-## Hi, I'm Muhammad Ali 👋
+## Hi, I'm Muhammad Ali
 
-**AI Solutions Engineer & CTO** based in Pakistan, building production-grade AI systems.
+**AI Solutions Engineer & CTO** building production-grade AI systems.
 
 [![Website](https://img.shields.io/badge/Website-makiex.com-3b82f6?style=flat-square&logo=safari&logoColor=white)](https://makiex.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-makiex-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/makiex)
 [![Email](https://img.shields.io/badge/Email-m.ali06782@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.ali06782@gmail.com)
 
 Currently leading engineering at **Fyncall** (AI customer service) and **Builderson Group** (fintech & platforms). Previously solo developer at **Revisable** — an AI-powered medical exam prep platform with **100,000+ students**.
-
 
 ---
 
@@ -16,7 +15,7 @@ Currently leading engineering at **Fyncall** (AI customer service) and **Builder
 - **Agentic AI Systems** — Multi-agent architectures with LangGraph, RAG pipelines, LLM orchestration
 - **Full-Stack Development** — FastAPI backends, Flutter mobile apps, PostgreSQL, Redis
 - **Fintech & Blockchain** — LoRaWAN payment systems, DAG blockchain, double-entry accounting
-- **Mobile Applications** — Cross-platform Flutter apps with 100K+ combined downloads
+- **Open Source** — AI tools, Flutter packages, developer productivity
 
 ---
 
@@ -26,25 +25,25 @@ Currently leading engineering at **Fyncall** (AI customer service) and **Builder
 <tr>
 <td width="50%" valign="top">
 
-#### 🤖 Fyncall
+#### Fyncall
 **AI Customer Service Platform**
 
 `Co-Founder & CTO` · *2024 - Present*
 
 Multi-agent AI platform for customer support automation.
 
-- 100,000+ lines of production code
-- 150+ REST API endpoints
 - 35+ intelligent AI tools
+- 150+ REST API endpoints
 - 5 unified messaging channels
 - 15+ OAuth integrations (Shopify, Stripe, etc.)
+- Multi-LLM orchestration (OpenAI, Azure, Gemini)
 
 **Stack:** LangGraph · FastAPI · RAG · PostgreSQL · Redis · Docker
 
 </td>
 <td width="50%" valign="top">
 
-#### 📚 Revisable
+#### Revisable
 **AI Medical Exam Prep Platform**
 
 `Solo Developer` · *2022 - 2023*
@@ -64,36 +63,36 @@ AI-powered study platform for medical students preparing for NEET, USMLE, FMGE, 
 <tr>
 <td width="50%" valign="top">
 
-#### 💳 PayAll
+#### PayAll
 **LoRaWAN Fintech Ecosystem**
 
 `Solo Developer` · *2025 - Present*
 
-Complete digital payment system using LoRaWAN for low-power, long-range transactions.
+Complete digital payment system using LoRaWAN for offline transactions in Sub-Saharan Africa.
 
-- 55,000+ lines of code
-- 200+ API endpoints
+- 4 integrated applications (consumer, merchant, agent, backend)
+- 200+ API endpoints, 32 database models
 - DAG blockchain with FPC consensus
 - Custom PayAll Protocol (PA001-PA955)
-- Flutter app with biometric auth
+- Supports 50+ countries
 
 **Stack:** FastAPI · Flutter · LoRaWAN · ChirpStack · PostgreSQL
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤝 Match and Help
+#### Match and Help
 **Volunteer Matching Platform**
 
 `Lead Developer` · *2024 - Present*
 
-Intelligent platform connecting volunteers with opportunities.
+Connecting hearing-impaired individuals with volunteers in Hong Kong.
 
-- 62,000+ lines of Flutter code
+- Live on App Store & Google Play
 - 60+ screens, 21 service modules
 - Smart matching algorithm
 - Google Calendar sync
-- Real-time chat with Firestore
+- Adopted by 3 Hong Kong organizations
 
 **Stack:** Flutter · Firebase · Firestore · Google Maps API
 
@@ -103,22 +102,35 @@ Intelligent platform connecting volunteers with opportunities.
 
 ---
 
+### Open Source
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[autodocs-ai](https://github.com/makieali/autodocs-ai)** | AI document generator — 5 providers, 8 templates, dual rendering | Python |
+| **[longform-ai](https://github.com/makieali/longform-ai)** | AI long-form content engine with continuity tracking | TypeScript |
+| **[flutter-firebase-ai-proxy](https://github.com/makieali/flutter-firebase-ai-proxy)** | Secure OpenAI/Claude/Gemini proxy via Firebase | TypeScript |
+| **[flutter_spaced_repetition](https://github.com/makieali/flutter_spaced_repetition)** | SM-2/SM-2+ algorithm for Flutter | Dart |
+| **[flutter_cache_provider](https://github.com/makieali/flutter_cache_provider)** | Tiered L1/L2 caching with Prometheus metrics | Dart |
+| **[flutter_learning_analytics](https://github.com/makieali/flutter_learning_analytics)** | Learning analytics & progress visualization | Dart |
+
+---
+
 ### More Projects
 
 | Project | Description | Role | Tech |
 |---------|-------------|------|------|
-| **Monduo** | Spatial telepresence with 3×3 camera setup, <150ms latency | Architect | WebRTC, LiveKit |
-| **RemoteTal** | AI recruitment platform with automated screening | Tech Lead | Flutter, OpenAI |
-| **CodeAI** | AI programming assistant with OCR | Tech Lead | Flutter, OpenAI |
-| **DoubtClear AI** | Multi-subject AI tutoring app | Developer | Flutter, OpenAI |
-| **Face Recognition** | Attendance system with 97.5% accuracy @ 25 FPS | Solo (FYP) | FaceNet, OpenCV |
+| **Monduo** | Spatial telepresence with 3x3 camera setup, <150ms latency | Architect | WebRTC, LiveKit, Go |
+| **MonduoControl** | Native Windows hardware control via DDC-CI | Developer | C#, .NET 8, WPF |
+| **MaliPay** | Mobile money ecosystem for West Africa | Tech Lead | Flutter, FastAPI |
+| **IQVC** | Credential verification platform (similar to WES) | Tech Lead | FastAPI, Flutter |
+| **AI Face Recognition** | Attendance system with 97.5% accuracy @ 25 FPS | Solo (FYP) | FaceNet, OpenCV |
 
 ---
 
 ### Tech Stack
 
 **AI & ML**
-`LangChain` `LangGraph` `LlamaIndex` `CrewAI` `OpenAI` `RAG` `Pinecone` `TensorFlow` `PyTorch` `OpenCV`
+`LangChain` `LangGraph` `LlamaIndex` `CrewAI` `MCP` `OpenAI` `RAG` `Pinecone` `TensorFlow` `PyTorch` `OpenCV`
 
 **Backend**
 `Python` `FastAPI` `Flask` `Go` `PostgreSQL` `Redis` `SQLAlchemy` `Celery` `GraphQL` `WebSocket`
@@ -126,31 +138,34 @@ Intelligent platform connecting volunteers with opportunities.
 **Mobile**
 `Flutter` `Dart` `Firebase` `Firestore`
 
+**Desktop & IoT**
+`C#` `.NET 8` `WPF` `Electron` `LoRaWAN` `WebRTC` `MQTT`
+
 **DevOps**
-`Docker` `Kubernetes` `GitHub Actions` `AWS` `GCP` `Nginx` `Grafana` `Prometheus`
+`Docker` `Kubernetes` `GitHub Actions` `AWS` `Azure` `GCP` `Nginx` `Grafana` `Prometheus`
 
 **Integrations**
-`Shopify` `Stripe` `Twilio` `WhatsApp API` `Razorpay` `Odoo` `OAuth 2.0`
+`Shopify` `Stripe` `Twilio` `WhatsApp API` `Razorpay` `Odoo` `OAuth 2.0` `Google Calendar`
 
 ---
 
 ### Experience
 
 ```
-2024 ──────────────────────────────────────────────────────────────────────────
+2024-Present ──────────────────────────────────────────────────────────────────
 ├── Co-Founder & CTO @ Fyncall
-│   AI customer service platform · 100K+ LOC · Multi-agent systems
+│   AI customer service · Multi-agent LangGraph · 15+ OAuth integrations
 │
 └── CTO & Co-Founder @ Builderson Group
-    PayAll · Match and Help · Monduo
+    PayAll · Match and Help · Monduo · 9+ projects across 7+ countries
 
-2024 ──────────────────────────────────────────────────────────────────────────
+2024-2025 ─────────────────────────────────────────────────────────────────────
 └── ERP Team Lead @ Consolidated Consultancy Group (Lebanon)
     Odoo deployment · Lebanese Accounting Module · LLM modules
 
 2023 ──────────────────────────────────────────────────────────────────────────
 ├── Technical Lead @ ITECH GEMINI
-│   4 LLM-powered mobile apps · Team of engineers
+│   4 LLM-powered mobile apps · Team leadership
 │
 └── Solo Developer @ Revisable
     AI medical exam platform · 100K+ students · 4.5★ rating
@@ -166,24 +181,24 @@ Intelligent platform connecting volunteers with opportunities.
 
 ---
 
-### Numbers
+### At a Glance
 
 | Metric | Value |
 |--------|-------|
-| Lines of Code Written | **200,000+** |
-| API Endpoints Built | **500+** |
-| AI Tools Created | **35+** |
+| AI Tools Built | **35+** |
+| API Endpoints Shipped | **500+** |
 | Users Impacted | **100,000+** |
 | Projects Delivered | **15+** |
+| Countries Served | **6+** |
+| Open Source Repos | **33** |
 
 ---
 
 ### Let's Connect
 
-
-📧 **Email:** [m.ali06782@gmail.com](mailto:m.ali06782@gmail.com)
-🌐 **Portfolio:** [makiex.com](https://makiex.com)
-💼 **LinkedIn:** [linkedin.com/in/makiex](https://linkedin.com/in/makiex)
+**Email:** [m.ali06782@gmail.com](mailto:m.ali06782@gmail.com)
+**Portfolio:** [makiex.com](https://makiex.com)
+**LinkedIn:** [linkedin.com/in/makiex](https://linkedin.com/in/makiex)
 
 ---
 
